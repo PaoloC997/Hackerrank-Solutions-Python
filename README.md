@@ -1,3 +1,3 @@
-# Hackerrank-Solutions-Python-JS
+# Hackerrank-Solutions-Python
 
-Solutions to some Hackerrank Algorithm exercises on Python and JS. Will be uploading more regularly.
+Solutions to some Hackerrank Algorithm exercises on Python. Will be uploading more regularly.
